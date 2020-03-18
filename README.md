@@ -8,7 +8,7 @@ Simple application simulates management of entertaiment items :
  - videogame's
 
 The main funcionalities are:
-  - possibility to borrow the specific item (only books and cd's
+  - possibility to borrow the specific item (only books and cd's)
   - own item
   - list items
   - print responsibiles
